@@ -23,7 +23,7 @@ Good Luck!
 
 TIP: geeks be extremely helpful !!!!!!!!!
 
-Clue: O1OOOO1OO1OOOOO1O1O1OO11O1OOO1O1OO11O1O1OO111OOO //BINARY but zero went worng kinda O not 0  
+Clue: O1OOOO1OO1OOOOO1O1O1OO11O1OOO1O1OO11O1O1OO111OOO //BINARY but zero went worng
 
 
 # SUS TEXT 
