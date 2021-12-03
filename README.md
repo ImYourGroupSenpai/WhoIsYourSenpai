@@ -13,9 +13,9 @@
 
 
 # EXTREME CLUE
-We know that clues in your name tag is so stupid 
+We know that clues in your name tag is so stupid! sorry for that 
 
-so we have a "EXTEME CLUE" for you! if you can solve this clue, our name will appear! 
+so we have an "EXTEME CLUE" for you! if you can solve this clue, our name will appear! 
 
 Good Luck!
 
