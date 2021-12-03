@@ -1,7 +1,7 @@
 # Who Is Your Senpai ???
 [General Info] 
 
--There are 2 senpai in your group. 
+-There are 2 P'Group in your group. 
 
 -simple clues are written in your name tag 
   1st person : เอ๋อ
