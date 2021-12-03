@@ -8,7 +8,7 @@
 ![alt text](https://cdn.vox-cdn.com/thumbor/9j-s_MPUfWM4bWdZfPqxBxGkvlw=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg)
 
 
-# EXTEMEME CLUE
+# EXTREME CLUE
 We know that clues in your name tag is so stupid
 
 so we have a "EXTEME CLUE" for you! if you can solve this clue, our name will appear! 
