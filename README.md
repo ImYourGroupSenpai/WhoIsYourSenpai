@@ -1,5 +1,6 @@
 # WhoIsYourSenpai
-[General Info] \n
+[General Info] 
+
 -There are 2 senpai in your group. 
 -simple clues are written in your name tag
 
