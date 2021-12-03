@@ -9,7 +9,7 @@
 
 
 # EXTEMEME CLUE
-We know that clues in your name tag is stupid
+We know that clues in your name tag is so stupid
 
 so we have a "EXTEME CLUE" for you! if you can solve this clue, our name will appear! 
 
