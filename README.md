@@ -1,4 +1,4 @@
-# WhoIsYourSenpai
+# Who Is Your Senpai ???
 [General Info] 
 
 -There are 2 senpai in your group. 
