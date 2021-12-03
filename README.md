@@ -3,8 +3,10 @@
 
 -There are 2 P'Group in your group. 
 
--simple clues are written in your name tag 
+-simple clues are written in your name tag  including with....
+
   1st person : เอ๋อ
+  
   2nd person : ทึก 
 
 ![alt text](https://cdn.vox-cdn.com/thumbor/9j-s_MPUfWM4bWdZfPqxBxGkvlw=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg)
