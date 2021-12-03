@@ -1,5 +1,14 @@
 # WhoIsYourSenpai
+[General Info]
+-There are 2 senpai in your group. 
+-simple clues are written in your name tag
 
+
+# EXTEMEME CLUE
+We know that clues in your name tag is stupid
+so we have a "EXTEME CLUE" for you! if you can solve this clue, our name will appear! 
+Good Luck!
+-----------------------------------------------------------------------------------------
 TIP: geeks be extremely helpful.
 Clue: 01000010 01000001 01010011 01000101 00110110 00110100
 
