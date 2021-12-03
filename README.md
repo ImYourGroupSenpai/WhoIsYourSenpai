@@ -21,7 +21,7 @@ Good Luck!
 
 -----------------------------------------------------------------------------------------
 
-TIP: geeks be extremely helpful !!!!!!!!!
+TIP: Ask for some help from your friend. Geeks be extremely helpful!!! 
 
 Clue: O1OOOO1OO1OOOOO1O1O1OO11O1OOO1O1OO11O1O1OO111OOO      //BINARY but zero went wrong
 
