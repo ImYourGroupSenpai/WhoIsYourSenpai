@@ -15,7 +15,7 @@
 # EXTREME CLUE
 We know that clues in your piece of paper is so stupid! sorry for that 
 
-so we have an "EXTEME CLUE" for you! if you can solve this clue, our name will appear! 
+so we have an "EXTREME CLUE" for you! if you can solve this clue, our name will appear! 
 
 Good Luck!
 
