@@ -3,17 +3,17 @@
 
 -There are 2 P'Group in your group. 
 
--simple clues are written in your name tag  including with....
+-Simple clues are written on a piece of paper. including with....
 
-  1st person : เอ๋อ
+  1st person : เอ๋อ ???
   
-  2nd person : ทึก 
+  2nd person : ทึก ???
 
 ![alt text](https://cdn.vox-cdn.com/thumbor/9j-s_MPUfWM4bWdZfPqxBxGkvlw=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg)
 
 
 # EXTREME CLUE
-We know that clues in your name tag is so stupid! sorry for that 
+We know that clues in your piece of paper is so stupid! sorry for that 
 
 so we have an "EXTEME CLUE" for you! if you can solve this clue, our name will appear! 
 
@@ -23,7 +23,7 @@ Good Luck!
 
 TIP: Ask for some help from your friend. Geeks be extremely helpful!!! 
 
-Clue: O1OOOO1OO1OOOOO1O1O1OO11O1OOO1O1OO11O1O1OO111OOO      //BINARY but zero went wrong
+Clue: O1OOOO1OO1OOOOO1O1O1OO11O1OOO1O1OO11O1O1OO111OOO      //It's BINARY // If you don't know => google it !!! 
 
 *use this clue to solve "SUS TEXT" 
 
